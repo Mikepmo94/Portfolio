@@ -1,0 +1,11 @@
+body{
+    font-family: "monospace";
+}
+
+.font-primary{
+    color: #00abae
+}
+.title-icon{
+    font-size: 25px;
+    opacity: 75%;
+}
